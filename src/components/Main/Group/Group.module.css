@@ -1,0 +1,35 @@
+.group-header {
+  display: flex;
+  flex-direction: row;
+  height: 1rem;
+}
+.group-header li {
+  padding: 1rem 1rem 1rem;
+  border: solid 1px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.team {
+  width: 7rem;
+  list-style: none;
+}
+
+.data {
+  width: 3rem;
+  list-style: none;
+}
+
+.group-team {
+  display: flex;
+  flex-direction: row;
+  height: 1rem;
+}
+.group-team li {
+  padding: 1rem 1rem 1rem;
+  border: solid 1px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=Group.module.css.map */

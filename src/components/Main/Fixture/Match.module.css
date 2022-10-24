@@ -1,0 +1,11 @@
+.match {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.team {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}/*# sourceMappingURL=Match.module.css.map */
